@@ -1,6 +1,6 @@
 /*-- ===============================================
 
-Product: 'Papr || HTML Template for News & Magazine'
+Product: 'Papr || HTML Template for news & Magazine'
 Version: 1.1
 Author: axilweb
 Date Created: July 26, 2019
@@ -3667,6 +3667,9 @@ p.big {
 p.mid {
   font-size: 1.6rem;
   line-height: 2.8rem;
+
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
 }
 p.small {
   font-size: 1.4rem;
@@ -5609,7 +5612,7 @@ input[type="radio"] + label::after {
 .content-block:hover .caption-content {
   transform: translateY(-1rem);
 }
-/*--Newsletter block--*/
+/*--newsletter block--*/
 .newsletter-content {
   max-width: 66.5rem;
   margin-left: auto;
@@ -7339,13 +7342,13 @@ ul.gallery img {
   margin-right: 1rem;
 }
 .footer-bottom {
-  padding-top: 3rem;
+  padding-top: 1rem;
   border-top: 0.2rem solid var(--grey-dark-one);
 }
 .footer-bottom ul,
 .footer-bottom .axil-copyright-txt {
   font-size: 1.4rem;
-  line-height: 2.4rem;
+  line-height: 1rem;
   color: var(--grey-dark-three);
   padding: 0;
   list-style: none;

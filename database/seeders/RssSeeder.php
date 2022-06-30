@@ -15,12 +15,13 @@ class RssSeeder extends Seeder
     public function run()
     {
         Rss::create([
-             //'name' => 'tempo',
-             //'url' =>'http://rss.tempo.co/nasional',
-            //'name' => 'kbs',
-            //'url' =>'http://world.kbs.co.kr/rss/rss_news.htm?lang=i',
-            'name' => 'culture',
-            'url' =>'http://world.kbs.co.kr/rss/rss_news.htm?lang=i&id=Cu',
+            //   'name' => 'tempo',
+            //   'url' =>'http://rss.tempo.co/nasional',
+            // 'name' => 'climate',
+            // 'url' =>'https://news.un.org/feed/subscribe/en/news/topic/climate-change/feed/rss.xml',
+             'name' => 'health',
+              'url' =>'https://news.un.org/feed/subscribe/en/news/topic/health/feed/rss.xml',
+            
         ]);
     }
 }
