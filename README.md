@@ -48,7 +48,7 @@ di dalam tabel news terdapat kolom id, Title, img_url, description, source_url,r
    ---
 
    <h1>Progress Tubes 3</h1>
-   ---
+
    <h2>Tampilan yang Terdapat Pada Halaman Website</h2>
 
 | Tampilan|
@@ -58,6 +58,9 @@ di dalam tabel news terdapat kolom id, Title, img_url, description, source_url,r
 | Climate  | 
 | Health  | 
 ---
+
+Pada tampilan awal yaitu menu home terdapat isi berita dari 3 rss yang telah disimpan di database ketiga rss itu ialah rss yang menampilakn berita tempo, rss yang menampilkan berita climate dan rss yang menampilkan berita health tampilan dari website tersebut seperti ini 
+![Screenshot (12)](https://user-images.githubusercontent.com/71678175/178018034-e0ddf222-d72e-4cb5-95d9-fe490273723e.png)
 
        
  sekian dan terima kasih
