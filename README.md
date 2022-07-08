@@ -28,12 +28,25 @@ Tutorial Install Laravel
   
   ---
  <h1>Progress Tubes 2</h1>
-git
-- Format database : 
-    = terdapat 3 table yaitu 
-        - news
-        - Kbs
-        - Edu 
+
+di database terdapat 2 tabel, yaitu 
+| Tabel|
+| ----- | 
+| rss |
+|news  | 
+
+di dalam tabel rss terdapat terdapat kolom id, nama , url  yang terdiri dari 
+| id | nama | url |
+| ----- |--- |--- | 
+| 1 | tempo | http://rss.tempo.co/nasional |
+| 2 | climate | https://news.un.org/feed/subscribe/en/news/topic/climate-change/feed/rss.xml |
+| 3 | Health | https://news.un.org/feed/subscribe/en/news/topic/health/feed/rss.xml |
+
+di dalam tabel news terdapat kolom id, Title, img_url, description, source_url,rss_id
+
+
+
+
    dengan 3 rss yaitu : http://rss.tempo.co/nasional, http://world.kbs.co.kr/rss/rss_news.htm?lang=i, http://world.kbs.co.kr/rss/rss_news.htm?lang=i&id=Cu ) 
    di masing - masing table terdapat 4 kolom yaitu : kolom id, post,descrip, dan img
 
