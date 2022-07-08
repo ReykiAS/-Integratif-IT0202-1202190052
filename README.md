@@ -67,7 +67,7 @@ untuk tampilan di bawah nya menampilakn isi berita dari climate dan health
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/71678175/178018328-444f6f15-507d-4513-ac3b-fe8f7d9facfe.png)
 
-pada tampilan News menampilan seluruh isi berita dari rss tempo yang telah diurutkan sesaui dengan update terbaru yang dapat untuk tampilan dari halam news seperti ini
+pada tampilan News menampilan seluruh isi berita dari rss tempo yang telah diurutkan sesuai dengan update terbaru yang dapat untuk tampilan dari halaman news seperti ini
 
 ![Screenshot (14)](https://user-images.githubusercontent.com/71678175/178018563-2614a2d2-1faf-48fa-af35-8ae150b7e358.png)
 
