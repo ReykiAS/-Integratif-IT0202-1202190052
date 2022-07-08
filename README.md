@@ -21,5 +21,19 @@ git
    di masing - masing table terdapat 4 kolom yaitu : kolom id, post,descrip, dan img
 
    ---
+   ---
+   <h1>Progress Tubes 3</h1>
+   ---
+   <h2>Tampilan yang Terdapat Pada Halaman Website</h2>
+
+| Tampilan|
+| ----- | 
+| Home  |
+| News  | 
+| Climate  | 
+| Health  | 
+
+       
+ sekian dan terima kasih
        
  sekian dan terima kasih
