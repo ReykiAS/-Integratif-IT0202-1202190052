@@ -14,6 +14,7 @@ Tutorial Install Laravel
   - dan ketikan php artisan key:generate, untuk menggenerate artisan key
   - untuk menjalankan laravel kita tinggal mengetikan php artisan serve
   - lalu ip yang didapatkan itu yang kita buka di browser 
+  ---
 git
 - Format database : 
     = terdapat 3 table yaitu 
