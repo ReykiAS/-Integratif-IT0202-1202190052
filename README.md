@@ -61,7 +61,17 @@ di dalam tabel news terdapat kolom id, Title, img_url, description, source_url,r
 
 Pada tampilan awal yaitu menu home terdapat isi berita dari 3 rss yang telah disimpan di database ketiga rss itu ialah rss yang menampilakn berita tempo, rss yang menampilkan berita climate dan rss yang menampilkan berita health tampilan dari website tersebut seperti ini 
 ![Screenshot (12)](https://user-images.githubusercontent.com/71678175/178018034-e0ddf222-d72e-4cb5-95d9-fe490273723e.png)
+untuk tampilan di bawah nya menampilakn isi berita dari climate dan health
+![Screenshot (13)](https://user-images.githubusercontent.com/71678175/178018328-444f6f15-507d-4513-ac3b-fe8f7d9facfe.png)
 
+pada tampilan News menampilan seluruh isi berita dari rss tempo yang telah diurutkan sesaui dengan update terbaru yang dapat untuk tampilan dari halam news seperti ini
+![Screenshot (14)](https://user-images.githubusercontent.com/71678175/178018563-2614a2d2-1faf-48fa-af35-8ae150b7e358.png)
+Lalu untuk tampilan dari halaman climate dan health sama dengan tampilan dari halaman news bedanya hanya dari konten yang ditampilakn berikut untuk tampilan halaman climate 
+![Screenshot (15)](https://user-images.githubusercontent.com/71678175/178018578-d7339420-b4c7-47d8-addc-21d840b4bda8.png)
+dan berikut tampilan halaman health 
+![Screenshot (16)](https://user-images.githubusercontent.com/71678175/178018583-32b71d9e-81d5-4c08-8230-dd713d710eaf.png)
+---
+> IT Telkom Solution For The Nation
        
  sekian dan terima kasih
        
