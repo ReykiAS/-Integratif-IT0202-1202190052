@@ -6,18 +6,18 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8">
-						@foreach ($news as $news)
+						@foreach ($news as $news1)
 						<main class="axil-content">
 							<div class="media post-block post-block__mid m-b-xs-30">
-								<a href="{{$news->source_url}}" class="align-self-center"><img class=" m-r-xs-30"
-										src="{{$news->img_url}}" alt=""></a>
+								<a href="{{$news1->source_url}}" class="align-self-center"><img class=" m-r-xs-30"
+										src="{{$news1->img_url}}" alt=""></a>
 								<div class="media-body">
 									<div class="post-cat-group m-b-xs-10">
 										<a href="business" class="post-cat cat-btn bg-color-blue-one">news</a>
 									</div>
 									<h3 class="axil-post-title hover-line hover-line"><a
-											href="{{$news->source_url}}">{{$news->title}}</a></h3>
-									<p class="mid">{{$news->description}}</p>
+											href="{{$news1->source_url}}">{{$news1->title}}</a></h3>
+									<p class="mid">{{$news1->description}}</p>
 									<div class="post-metas">
 										<ul class="list-inline">
 										</ul>
@@ -26,7 +26,7 @@
 							</div>
 							<!-- End of .post-block -->
 							@endforeach
-						
+							
 						</main>
 						<!-- End of .axil-content -->
 						
@@ -263,6 +263,10 @@
 			</div>
 			<!-- End of .container -->
 		</div>
-		<!-- End of .random-posts -->		
+		<!-- End of .random-posts -->	
+		
+		
+      
+			
 </html>
 @include('partials.footer')

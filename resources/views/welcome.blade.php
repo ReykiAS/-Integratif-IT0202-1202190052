@@ -117,7 +117,7 @@
 												href="{{$news[3]->source_url}}">{{$news[3]->title}}</a></h3>
 										<div class="post-metas">
 											<ul class="list-inline">
-												<li>By <a href="{{$news[3]->source_url}}">{{$news[3]->source_url}}</a></li>
+												<li>By <a href="{{$news[3]->source_url}}">{{$news[3]->description}}</a></li>
 											</ul>
 										</div>
 									</div>

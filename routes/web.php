@@ -33,6 +33,7 @@ Route::get('/news', function () {
     return view('news');
 });
 Route::get('/news', [App\Http\Controllers\NwController::class, 'index']);
+Route::get('/news', [App\Http\Controllers\NwController::class, 'pagination']);
 
 Route::get('/climate', function () {
     return view('climate');

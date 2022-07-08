@@ -14,5 +14,12 @@ class NwController extends Controller
         return view('news')->with('news', $news);
 
     }
+    public function pagination()
+    {
+        $news1 = DB::table('news')->paginate(10);
+        return view('news',['news' => $news1]);
+       
+
+    }
    
 }

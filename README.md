@@ -19,5 +19,7 @@ git
         - Edu 
    dengan 3 rss yaitu : http://rss.tempo.co/nasional, http://world.kbs.co.kr/rss/rss_news.htm?lang=i, http://world.kbs.co.kr/rss/rss_news.htm?lang=i&id=Cu ) 
    di masing - masing table terdapat 4 kolom yaitu : kolom id, post,descrip, dan img
+
+   ---
        
  sekian dan terima kasih
