@@ -45,11 +45,6 @@ di dalam tabel rss terdapat terdapat kolom id, nama , url  yang terdiri dari
 di dalam tabel news terdapat kolom id, Title, img_url, description, source_url,rss_id
 
 
-
-
-   dengan 3 rss yaitu : http://rss.tempo.co/nasional, http://world.kbs.co.kr/rss/rss_news.htm?lang=i, http://world.kbs.co.kr/rss/rss_news.htm?lang=i&id=Cu ) 
-   di masing - masing table terdapat 4 kolom yaitu : kolom id, post,descrip, dan img
-
    ---
 
    <h1>Progress Tubes 3</h1>
@@ -62,6 +57,7 @@ di dalam tabel news terdapat kolom id, Title, img_url, description, source_url,r
 | News  | 
 | Climate  | 
 | Health  | 
+---
 
        
  sekian dan terima kasih
