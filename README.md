@@ -27,7 +27,7 @@ Tutorial Install Laravel
   - lalu ip yang didapatkan itu yang kita buka di browser 
   
   ---
-    <h1>Progress Tubes 2</h1>
+ <h1>Progress Tubes 2</h1>
 git
 - Format database : 
     = terdapat 3 table yaitu 
