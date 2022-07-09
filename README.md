@@ -80,6 +80,21 @@ dan berikut tampilan halaman health
 ![Screenshot (16)](https://user-images.githubusercontent.com/71678175/178018583-32b71d9e-81d5-4c08-8230-dd713d710eaf.png)
 
 ---
+ <h1>How To Create It</h1>
+ 
+ Pada tahapan pembuatan website ini terdiri dari beberapa tahapan, di weebsite ini terdiri dari html, css dan JS.
+ untuk pembuatan tamppilan di laravel sangatlah mudah yang pertama 
+ 
+  - pertama kita membuat file yang berada pada resources -> views, lalu membuat nama file dengan bertuliskan nama_file.blade.php 
+  ![blade](https://user-images.githubusercontent.com/71678175/178091920-67ebf213-7c9a-4e5b-baf0-9d745f14ef18.png)
+  
+  - setelah itu jika ingin menampilkan hasil html dan css yang telah kita buat kita tinggal mendaftarkan nama file kita di route -> web.php agar file yang kita buat        dapat terpanggil dengan route yang telah kita buat 
+  ![route](https://user-images.githubusercontent.com/71678175/178091926-2bea53df-3807-4641-a5b0-22fd9c967899.png)
+  
+  - untuk menampilkan isi dari database kita, kita tinggal membuat controller dengan view dari nama file yang ingin dituju, dalam tubes ini saya memanggil file dari       table news dengan kolom yang ingin ditampilkan seperti gambar di bawah ini, dengan kondisi ketika rss_id = 1 maka yang akan muncul hanya berita dengan rss_id 1         dan dengan pengurutan data secara descending 
+  ![controller](https://user-images.githubusercontent.com/71678175/178091923-b7fd491d-9d3b-41e4-aeb1-bbc16a4b48a2.png)
+  ---
+  
 > IT Telkom Solution For The Nation
        
  <h2>sekian dan terima kasih</h2>
