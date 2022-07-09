@@ -102,7 +102,7 @@ dan berikut tampilan halaman health
   ---
   
 > IT Telkom Solution For The Nation
-> :trollface:
+
  <h2>sekian dan terima kasih</h2>
        
 
