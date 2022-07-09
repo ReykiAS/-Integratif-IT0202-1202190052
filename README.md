@@ -94,7 +94,7 @@ dan berikut tampilan halaman health
   - untuk menampilkan isi dari database kita, kita tinggal membuat controller dengan view dari nama file yang ingin dituju, dalam tubes ini saya memanggil file dari       table news dengan kolom yang ingin ditampilkan seperti gambar di bawah ini, dengan kondisi ketika rss_id = 1 maka yang akan muncul hanya berita dengan rss_id 1         dan dengan pengurutan data secara descending 
   ![controller](https://user-images.githubusercontent.com/71678175/178091923-b7fd491d-9d3b-41e4-aeb1-bbc16a4b48a2.png)
   
-  "pada bagian blade terdapat fungsi @include('partials.header') yang berfungsi untuk memanggil fungsi header agar kita tidak perlu mengoding header di halaman yang baru "
+  <h3>pada bagian blade terdapat fungsi @include('partials.header') yang berfungsi untuk memanggil fungsi header agar kita tidak perlu mengoding header di halaman yang baru </h3>
   ---
   
 > IT Telkom Solution For The Nation
