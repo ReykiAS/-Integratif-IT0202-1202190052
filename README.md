@@ -95,6 +95,7 @@ dan berikut tampilan halaman health
   ![controller](https://user-images.githubusercontent.com/71678175/178091923-b7fd491d-9d3b-41e4-aeb1-bbc16a4b48a2.png)
   
   <h3>pada bagian blade terdapat fungsi @include('partials.header') yang berfungsi untuk memanggil fungsi header agar kita tidak perlu mengoding header di halaman yang baru </h3>
+  
   ---
   
 > IT Telkom Solution For The Nation
