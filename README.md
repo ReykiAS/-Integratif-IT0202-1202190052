@@ -93,7 +93,7 @@ dan berikut tampilan halaman health
   
   ![route](https://user-images.githubusercontent.com/71678175/178091926-2bea53df-3807-4641-a5b0-22fd9c967899.png)
   
-  - untuk menampilkan isi dari database kita, kita tinggal membuat controller dengan view dari nama file yang ingin dituju, dalam tubes ini saya memanggil file dari       table news dengan kolom yang ingin ditampilkan seperti gambar di bawah ini, dengan kondisi ketika rss_id = 1 maka yang akan muncul hanya berita dengan rss_id 1         dan dengan pengurutan data secara descending 
+  - untuk menampilkan isi dari database kita, kita tinggal membuat controller dengan view dari nama file yang ingin dituju, dalam tubes ini saya memanggil file dari       table news dengan kolom yang ingin ditampilkan seperti gambar di bawah ini, dengan kondisi ketika rss_id = 3 maka yang akan muncul hanya berita dengan rss_id 3         dan dengan pengurutan data secara descending 
   
   ![controller](https://user-images.githubusercontent.com/71678175/178091923-b7fd491d-9d3b-41e4-aeb1-bbc16a4b48a2.png)
   
@@ -102,7 +102,7 @@ dan berikut tampilan halaman health
   ---
   
 > IT Telkom Solution For The Nation
-       
+> :trollface:
  <h2>sekian dan terima kasih</h2>
        
 
